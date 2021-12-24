@@ -4897,8 +4897,8 @@
      z-index: 1;
      padding-top: 75px;
      padding-bottom: 150px;
-     background-image: -webkit-gradient(linear, left top, right top, from(#ffe601), to(#ff8b03)); /* Add Image */
-     background-image:  linear-gradient(90deg, #ffe601, #ff8b03);
+     background-image: -webkit-gradient(linear, left top, right top, from(#ffe601), to(#ff8b03));
+     background-image: url("/assets/images/banner.png"), /*url("https://global-uploads.webflow.com/6191e507f3028a2aa81f9749/61994d437f6c6b25b521d8e3_Frame%203.svg"), */ linear-gradient(90deg, #ffe601, #ff8b03);
      background-position: 20% 100%, 60% 0%, 0px 0px;
      background-size: auto 580px, auto, auto;
      background-repeat: no-repeat, no-repeat, repeat;
