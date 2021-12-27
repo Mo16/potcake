@@ -4260,10 +4260,7 @@
      height: 200px;
      margin-left: -10%;
      background-color: #000;
-     -webkit-transform: rotateX(0deg) rotateY(3deg) rotateZ(3deg) translate(0px, -50px);
-     transform: rotateX(0deg) rotateY(3deg) rotateZ(3deg) translate(0px, -50px);
-     -webkit-transform-style: preserve-3d;
-     transform-style: preserve-3d;
+
    }
    
    .div-block-7.test {
@@ -4273,24 +4270,18 @@
    
    .div-block-7.bottom {
      position: relative;
-     -webkit-transform: rotate(-3deg) translate(0px, 50px);
-     -ms-transform: rotate(-3deg) translate(0px, 50px);
-     transform: rotate(-3deg) translate(0px, 50px);
+
    }
    
    .div-block-7.bottom.reverse {
      z-index: 99;
      height: 220px;
-     -webkit-transform: rotate(3deg) translate(0px, 100px);
-     -ms-transform: rotate(3deg) translate(0px, 100px);
-     transform: rotate(3deg) translate(0px, 100px);
+  
    }
    
    .div-block-7.bottom.tilt {
      z-index: 2;
-     -webkit-transform: rotate(-3deg) translate(0px, -100px);
-     -ms-transform: rotate(-3deg) translate(0px, -100px);
-     transform: rotate(-3deg) translate(0px, -100px);
+
    }
    
    .column-2 {
@@ -4550,9 +4541,7 @@
    }
    
    .container-10 {
-     -webkit-transform: rotate(3deg);
-     -ms-transform: rotate(3deg);
-     transform: rotate(3deg);
+
    }
    
    .column-6 {
@@ -4885,9 +4874,7 @@
      padding-bottom: 170px;
      background-color: #000;
      background-image: linear-gradient(41deg, #ded100, #ff8b03);
-     -webkit-transform: rotate(-3deg);
-     -ms-transform: rotate(-3deg);
-     transform: rotate(-3deg);
+
      -o-object-fit: fill;
      object-fit: fill;
    }
@@ -5949,9 +5936,7 @@
      margin-top: 50px;
      margin-left: -5%;
      background-color: #000;
-     -webkit-transform: translate(0px, 70px) rotate(-3deg);
-     -ms-transform: translate(0px, 70px) rotate(-3deg);
-     transform: translate(0px, 70px) rotate(-3deg);
+
      color: #000;
    }
    
@@ -5961,9 +5946,7 @@
      margin-bottom: 50px;
      margin-left: -5%;
      background-color: #000;
-     -webkit-transform: translate(0px, -70px) rotate(3deg);
-     -ms-transform: translate(0px, -70px) rotate(3deg);
-     transform: translate(0px, -70px) rotate(3deg);
+
    }
    
    @media screen and (max-width: 991px) {
